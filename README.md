@@ -17,3 +17,6 @@ My Discord Name: @samme69
 ox_lib
 ox_target
 es_extended
+
+
+The Cockatoos Notify is the Notify System! Dont change its name if you DONT know what you're doing!
