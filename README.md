@@ -5,7 +5,10 @@ The MLO is Free and linked below, or if you want to use another one you can chan
 If you have any questions DM me on Discord
 
 Forum Link: https://forum.cfx.re/t/esx-free-release-burgershot-job/5199761
+
 Discord Invite: https://discord.gg/5zRzgk3Naa
+
+^^
 Join for Support or Other Script Releases / Teasers
 
 My Discord Name: @samme69
